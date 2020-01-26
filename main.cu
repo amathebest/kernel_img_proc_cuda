@@ -2,67 +2,13 @@
 #include <chrono>
 #include "lodepng.h"
 #include "lodepng.cpp"
-#include "utils.h"
+#include "processing.h"
 
 using namespace std;
 using namespace lodepng;
 using namespace chrono;
 
-
-__global__ void kernel_proc(unsigned char* input_image, unsigned char* output_image, int width, int height) {
-    const unsigned int pixel_idx = blockIdx.x * blockDim.x + threadIdx.x;
-    int x = pixel_idx % width;
-    int y = (pixel_idx-x)/width;
-    int filter_size = 1; // Size of the filter goes from -1 to 1
-    // Checking if the index is within the image borders
-    if (pixel_idx < width*height) {
-        float output_red = 0;
-        float output_green = 0;
-        float output_blue = 0;
-        int hits = 0;
-        for (int ox = -filter_size; ox < filter_size+1; ++ox) {
-            for (int oy = -filter_size; oy < filter_size+1; ++oy) {
-                if ((x+ox) > -1 && (x+ox) < width && (y+oy) > -1 && (y+oy) < height) {
-                    const int currentoffset = (pixel_idx+ox+oy*width)*3;
-                    output_red += input_image[currentoffset];
-                    output_green += input_image[currentoffset+1];
-                    output_blue += input_image[currentoffset+2];
-                    hits++;
-                }
-            }
-        }
-        output_image[pixel_idx*3] = output_red/hits;
-        output_image[pixel_idx*3+1] = output_green/hits;
-        output_image[pixel_idx*3+2] = output_blue/hits;
-    }
-}
-
-void filter (unsigned char* input_image, unsigned char* output_image, int width, int height) {
-
-    unsigned char* dev_input;
-    unsigned char* dev_output;
-
-    cudaMalloc((void**) &dev_input, width*height*3*sizeof(unsigned char));
-    cudaMemcpy(dev_input, input_image, width*height*3*sizeof(unsigned char), cudaMemcpyHostToDevice);
-    cudaMalloc((void**) &dev_output, width*height*3*sizeof(unsigned char));
-
-    printf("Processing the image..\n");
-    steady_clock::time_point time_1 = steady_clock::now();
-
-    dim3 blockDims(512, 1, 1);
-    dim3 gridDims((unsigned int) ceil((double)(width*height*3/blockDims.x)), 1, 1 );
-    kernel_proc<<<gridDims, blockDims>>>(dev_input, dev_output, width, height);
-
-    steady_clock::time_point time_2 = steady_clock::now();
-    printf("Time elapsed: %Idns\n", duration_cast<nanoseconds>(time_2 - time_1).count());
-
-    cudaMemcpy(output_image, dev_output, width*height*3*sizeof(unsigned char), cudaMemcpyDeviceToHost);
-
-    cudaFree(dev_input);
-    cudaFree(dev_output);
-}
-
-int main() {
+int main(int argc, char** argv) {
     // Base path for input and output folders
     string base_path = "C:\\Users\\Matteo\\Dropbox\\University\\11\\PC\\kernel_img_proc_cuda";
     string input_folder = base_path + "\\input\\";

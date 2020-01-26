@@ -4,7 +4,8 @@
 CMakeFiles\kernel_img_proc_cuda.dir\main.cu.obj: ..\lodepng.cpp
 CMakeFiles\kernel_img_proc_cuda.dir\main.cu.obj: ..\lodepng.h
 CMakeFiles\kernel_img_proc_cuda.dir\main.cu.obj: ..\main.cu
-CMakeFiles\kernel_img_proc_cuda.dir\main.cu.obj: ..\utils.h
+CMakeFiles\kernel_img_proc_cuda.dir\main.cu.obj: ..\processing.h
 
-CMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.obj: ..\utils.cpp
+CMakeFiles\kernel_img_proc_cuda.dir\processing.cu.obj: ..\processing.cu
+CMakeFiles\kernel_img_proc_cuda.dir\processing.cu.obj: ..\processing.h
 

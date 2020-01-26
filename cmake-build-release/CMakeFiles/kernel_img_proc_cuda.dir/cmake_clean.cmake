@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/kernel_img_proc_cuda.dir/main.cu.obj"
-  "CMakeFiles/kernel_img_proc_cuda.dir/utils.cpp.obj"
+  "CMakeFiles/kernel_img_proc_cuda.dir/processing.cu.obj"
   "kernel_img_proc_cuda.exe"
   "kernel_img_proc_cuda.exe.manifest"
   "kernel_img_proc_cuda.lib"
@@ -8,6 +8,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CUDA CXX)
+foreach(lang CUDA)
   include(CMakeFiles/kernel_img_proc_cuda.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

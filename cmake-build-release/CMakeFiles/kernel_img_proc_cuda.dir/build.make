@@ -71,40 +71,33 @@ CMakeFiles\kernel_img_proc_cuda.dir\main.cu.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CUDA source to assembly CMakeFiles/kernel_img_proc_cuda.dir/main.cu.s"
 	$(CMAKE_COMMAND) -E cmake_unimplemented_variable CMAKE_CUDA_CREATE_ASSEMBLY_SOURCE
 
-CMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.obj: CMakeFiles\kernel_img_proc_cuda.dir\flags.make
-CMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.obj: ..\utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/kernel_img_proc_cuda.dir/utils.cpp.obj"
-	C:\PROGRA~2\MICROS~1.0\VC\bin\amd64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.obj /FdCMakeFiles\kernel_img_proc_cuda.dir\ /FS -c C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\utils.cpp
-<<
+CMakeFiles\kernel_img_proc_cuda.dir\processing.cu.obj: CMakeFiles\kernel_img_proc_cuda.dir\flags.make
+CMakeFiles\kernel_img_proc_cuda.dir\processing.cu.obj: ..\processing.cu
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CUDA object CMakeFiles/kernel_img_proc_cuda.dir/processing.cu.obj"
+	C:\PROGRA~1\NVIDIA~2\CUDA\v10.2\bin\nvcc.exe  $(CUDA_DEFINES) $(CUDA_INCLUDES) $(CUDA_FLAGS) -x cu -c C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\processing.cu -o CMakeFiles\kernel_img_proc_cuda.dir\processing.cu.obj -Xcompiler=-FdCMakeFiles\kernel_img_proc_cuda.dir\,-FS
 
-CMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kernel_img_proc_cuda.dir/utils.cpp.i"
-	C:\PROGRA~2\MICROS~1.0\VC\bin\amd64\cl.exe > CMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\utils.cpp
-<<
+CMakeFiles\kernel_img_proc_cuda.dir\processing.cu.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CUDA source to CMakeFiles/kernel_img_proc_cuda.dir/processing.cu.i"
+	$(CMAKE_COMMAND) -E cmake_unimplemented_variable CMAKE_CUDA_CREATE_PREPROCESSED_SOURCE
 
-CMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kernel_img_proc_cuda.dir/utils.cpp.s"
-	C:\PROGRA~2\MICROS~1.0\VC\bin\amd64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.s /c C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\utils.cpp
-<<
+CMakeFiles\kernel_img_proc_cuda.dir\processing.cu.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CUDA source to assembly CMakeFiles/kernel_img_proc_cuda.dir/processing.cu.s"
+	$(CMAKE_COMMAND) -E cmake_unimplemented_variable CMAKE_CUDA_CREATE_ASSEMBLY_SOURCE
 
 # Object files for target kernel_img_proc_cuda
 kernel_img_proc_cuda_OBJECTS = \
 "CMakeFiles\kernel_img_proc_cuda.dir\main.cu.obj" \
-"CMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.obj"
+"CMakeFiles\kernel_img_proc_cuda.dir\processing.cu.obj"
 
 # External object files for target kernel_img_proc_cuda
 kernel_img_proc_cuda_EXTERNAL_OBJECTS =
 
 kernel_img_proc_cuda.exe: CMakeFiles\kernel_img_proc_cuda.dir\main.cu.obj
-kernel_img_proc_cuda.exe: CMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.obj
+kernel_img_proc_cuda.exe: CMakeFiles\kernel_img_proc_cuda.dir\processing.cu.obj
 kernel_img_proc_cuda.exe: CMakeFiles\kernel_img_proc_cuda.dir\build.make
-kernel_img_proc_cuda.exe: CMakeFiles\kernel_img_proc_cuda.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable kernel_img_proc_cuda.exe"
-	"E:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\kernel_img_proc_cuda.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\amd64\link.exe /nologo @CMakeFiles\kernel_img_proc_cuda.dir\objects1.rsp @<<
- /out:kernel_img_proc_cuda.exe /implib:kernel_img_proc_cuda.lib /pdb:C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\cmake-build-release\kernel_img_proc_cuda.pdb /version:0.0  /machine:x64 /INCREMENTAL:NO /subsystem:console  -LIBPATH:C:\PROGRA~1\NVIDIA~2\CUDA\v10.2\lib\x64 cudadevrt.lib cudart_static.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\cmake-build-release\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CUDA executable kernel_img_proc_cuda.exe"
+	"E:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\kernel_img_proc_cuda.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\amd64\link.exe /nologo $(kernel_img_proc_cuda_OBJECTS) $(kernel_img_proc_cuda_EXTERNAL_OBJECTS) @<<
+ /out:kernel_img_proc_cuda.exe /implib:kernel_img_proc_cuda.lib /pdb:C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\cmake-build-release\kernel_img_proc_cuda.pdb /version:0.0 /machine:x64 /INCREMENTAL:NO /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib  -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/lib/x64" "cudadevrt.lib" "cudart_static.lib" 
 <<
 
 # Rule to build all files generated by this target.

@@ -151,32 +151,32 @@ main.cu.s:
 	$(MAKE) -f CMakeFiles\kernel_img_proc_cuda.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\kernel_img_proc_cuda.dir\main.cu.s
 .PHONY : main.cu.s
 
-utils.obj: utils.cpp.obj
+processing.obj: processing.cu.obj
 
-.PHONY : utils.obj
+.PHONY : processing.obj
 
 # target to build an object file
-utils.cpp.obj:
-	$(MAKE) -f CMakeFiles\kernel_img_proc_cuda.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.obj
-.PHONY : utils.cpp.obj
+processing.cu.obj:
+	$(MAKE) -f CMakeFiles\kernel_img_proc_cuda.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\kernel_img_proc_cuda.dir\processing.cu.obj
+.PHONY : processing.cu.obj
 
-utils.i: utils.cpp.i
+processing.i: processing.cu.i
 
-.PHONY : utils.i
+.PHONY : processing.i
 
 # target to preprocess a source file
-utils.cpp.i:
-	$(MAKE) -f CMakeFiles\kernel_img_proc_cuda.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.i
-.PHONY : utils.cpp.i
+processing.cu.i:
+	$(MAKE) -f CMakeFiles\kernel_img_proc_cuda.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\kernel_img_proc_cuda.dir\processing.cu.i
+.PHONY : processing.cu.i
 
-utils.s: utils.cpp.s
+processing.s: processing.cu.s
 
-.PHONY : utils.s
+.PHONY : processing.s
 
 # target to generate assembly for a file
-utils.cpp.s:
-	$(MAKE) -f CMakeFiles\kernel_img_proc_cuda.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\kernel_img_proc_cuda.dir\utils.cpp.s
-.PHONY : utils.cpp.s
+processing.cu.s:
+	$(MAKE) -f CMakeFiles\kernel_img_proc_cuda.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\kernel_img_proc_cuda.dir\processing.cu.s
+.PHONY : processing.cu.s
 
 # Help Target
 help:
@@ -190,9 +190,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... utils.obj
-	@echo ... utils.i
-	@echo ... utils.s
+	@echo ... processing.obj
+	@echo ... processing.i
+	@echo ... processing.s
 .PHONY : help
 
 

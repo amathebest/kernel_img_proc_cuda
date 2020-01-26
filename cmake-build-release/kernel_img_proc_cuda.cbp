@@ -82,13 +82,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/lodepng.h">
+			<Option target="kernel_img_proc_cuda"/>
+		</Unit>
 		<Unit filename="C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/main.cu">
 			<Option target="kernel_img_proc_cuda"/>
 		</Unit>
-		<Unit filename="C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/utils.cpp">
+		<Unit filename="C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/processing.cu">
 			<Option target="kernel_img_proc_cuda"/>
 		</Unit>
-		<Unit filename="C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/utils.h">
+		<Unit filename="C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/processing.h">
 			<Option target="kernel_img_proc_cuda"/>
 		</Unit>
 		<Unit filename="C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/CMakeLists.txt">
