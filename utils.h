@@ -1,0 +1,8 @@
+//
+// Created by Matteo on 25/01/2020.
+//
+
+#ifndef KERNEL_IMG_PROC_CUDA_UTILS_H
+#define KERNEL_IMG_PROC_CUDA_UTILS_H
+
+#endif //KERNEL_IMG_PROC_CUDA_UTILS_H
