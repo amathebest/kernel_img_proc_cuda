@@ -1,5 +1,6 @@
 #include <iostream>
 #include <chrono>
+#include <vector>
 #include "lodepng.h"
 #include "lodepng.cpp"
 #include "processing.h"
@@ -13,22 +14,22 @@ int main(int argc, char** argv) {
     string base_path = "C:\\Users\\Matteo\\Dropbox\\University\\11\\PC\\kernel_img_proc_cuda";
     string input_folder = base_path + "\\input\\";
     string output_folder = base_path + "\\output\\";
-    string file_name = "pic.png";
+    string file_name = "pic5.png";
     string file_in = input_folder + file_name;
     string file_out = output_folder + file_name;
 
     // Image declaration and reading
-    vector<unsigned char> img;
+    vector<unsigned char> img_in;
     unsigned int width, height;
-    unsigned error = decode(img, width, height, file_in);
+    unsigned error = decode(img_in, width, height, file_in);
 
-    unsigned char* input_image = new unsigned char[(img.size()*3)/4];
-    unsigned char* output_image = new unsigned char[(img.size()*3)/4];
+    unsigned char* input_image = new unsigned char[(img_in.size()*3)/4];
+    unsigned char* output_image = new unsigned char[(img_in.size()*3)/4];
 
     int pixel_idx = 0;
-    for (int i = 0; i < img.size(); ++i) {
-        if ((i+1) % 4 != 0) { // Skipping transparency
-            input_image[pixel_idx] = img.at(i);
+    for (int i = 0; i < img_in.size(); i++) {
+        if ((i+1) % 4 != 0) { // Skipping transparency during image reading
+            input_image[pixel_idx] = img_in.at(i);
             output_image[pixel_idx] = 255;
             pixel_idx++;
         }
@@ -37,17 +38,15 @@ int main(int argc, char** argv) {
     // Applying blur effect
     filter(input_image, output_image, width, height);
 
-    // Prepare data for output
-    vector<unsigned char> out_image;
-    for (int i = 0; i < img.size(); ++i) {
-        out_image.push_back(output_image[i]);
+    // Picture output
+    vector<unsigned char> img_out;
+    for (int i = 0; i < (img_in.size()*3)/4; i++) {
+        img_out.push_back(output_image[i]);
         if ((i+1) % 3 == 0) { // Re-applying transparency
-            out_image.push_back(255);
+            img_out.push_back(255);
         }
     }
-
-    // Picture output
-    error = encode(file_out, out_image, width, height);
+    error = encode(file_out, img_out, width, height);
 
     return 0;
 }
