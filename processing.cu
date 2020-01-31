@@ -24,9 +24,9 @@ __global__ void kernel_proc(unsigned char* input_image, unsigned char* output_im
     if (pixel_idx < width*height) {
         // Accumulators for the kernel processing.
         // Each variable keeps the accumulated value for the multiplication with the original band value by the corresponding value in the kernel.
-        float output_blue = 0;
-        float green_acc = 0;
         float red_acc = 0;
+        float green_acc = 0;
+        float output_blue = 0;
         // n keeps track of how many multiplications occurs for the current pixel:
         // 3 on the vertices (0,0; 0,img.width; img.height,0; img.height,img.width), 6 on the edges and 9 for the rest of the image.
         int n = 0;
@@ -35,39 +35,39 @@ __global__ void kernel_proc(unsigned char* input_image, unsigned char* output_im
                 if ((x + krow) > -1 && (x + krow) < width && (y + kcol) > -1 && (y + kcol) < height) { // Checks image boundaries
                     // Looping on kernel values and storing the accumulator values for the 3 bands
                     const int current_idx = (pixel_idx + krow + kcol * width)*3;
-                    output_blue += input_image[current_idx + 2];
-                    green_acc += input_image[current_idx + 1];
                     red_acc += input_image[current_idx];
+                    green_acc += input_image[current_idx + 1];
+                    output_blue += input_image[current_idx + 2];
                     n++;
                 }
             }
         }
-        output_image[pixel_idx*3+2] = output_blue/n;
-        output_image[pixel_idx*3+1] = green_acc/n;
         output_image[pixel_idx*3] = red_acc/n;
+        output_image[pixel_idx*3+1] = green_acc/n;
+        output_image[pixel_idx*3+2] = output_blue/n;
     }
 }
 
 void filter (unsigned char* input_image, unsigned char* output_image, int width, int height) {
-
+    int array_size = width*height*3;
     unsigned char* dev_input;
     unsigned char* dev_output;
 
-    cudaMalloc((void**) &dev_input, width*height*3*sizeof(unsigned char));
-    cudaMemcpy(dev_input, input_image, width*height*3*sizeof(unsigned char), cudaMemcpyHostToDevice);
-    cudaMalloc((void**) &dev_output, width*height*3*sizeof(unsigned char));
+    cudaMalloc((void**) &dev_input, array_size*sizeof(unsigned char));
+    cudaMemcpy(dev_input, input_image, array_size*sizeof(unsigned char), cudaMemcpyHostToDevice);
+    cudaMalloc((void**) &dev_output, array_size*sizeof(unsigned char));
 
     printf("Processing the image..\n");
     chrono::steady_clock::time_point time_1 = chrono::steady_clock::now();
 
     dim3 blockDims(512, 1, 1);
-    dim3 gridDims((unsigned int) ceil((double)(width*height*3/blockDims.x)), 1, 1);
+    dim3 gridDims((unsigned int) ceil((double)(array_size/blockDims.x)), 1, 1);
     kernel_proc<<<gridDims, blockDims>>>(dev_input, dev_output, width, height);
 
     chrono::steady_clock::time_point time_2 = steady_clock::now();
     printf("Time elapsed: %Id[ns]\n", chrono::duration_cast<nanoseconds>(time_2 - time_1).count());
 
-    cudaMemcpy(output_image, dev_output, width*height*3*sizeof(unsigned char), cudaMemcpyDeviceToHost);
+    cudaMemcpy(output_image, dev_output, array_size*sizeof(unsigned char), cudaMemcpyDeviceToHost);
 
     cudaFree(dev_input);
     cudaFree(dev_output);

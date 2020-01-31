@@ -8,31 +8,31 @@ static char __nv_inited_managed_rt = 0; static void **__nv_fatbinhandle_for_mana
 #line 67 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../include\\cuda_runtime.h"
 #pragma warning(push)
 #pragma warning(disable: 4820)
-#line 708 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 708 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 #pragma region Input Buffer SAL 1 compatibility macros
 #line 1472
 #pragma endregion Input Buffer SAL 1 compatibility macros
-#line 2361 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2361 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 extern "C" {
-#line 2967 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2967 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 }
-#line 22 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\ConcurrencySal.h"
+#line 22 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\ConcurrencySal.h"
 extern "C" {
-#line 354 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\ConcurrencySal.h"
+#line 354 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\ConcurrencySal.h"
 }
-#line 15 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 15 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 #pragma pack ( push, 8 )
 #line 18
 extern "C" {
-#line 28 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 28 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 typedef unsigned __int64 uintptr_t; 
-#line 39 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 39 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 typedef char *va_list; 
-#line 106 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 106 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 void __cdecl __va_start(va_list *, ...); 
-#line 118 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 118 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 }
-#line 122 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 122 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 extern "C++" {
 #line 124
 template< class _Ty> 
@@ -66,11 +66,11 @@ template < typename _Ty >
         }
 #line 147
 }
-#line 157 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 157 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 #pragma pack ( pop )
-#line 81 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 81 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 __pragma( pack ( push, 8 )) extern "C" {
-#line 194 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 194 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 typedef unsigned __int64 size_t; 
 #if !defined(__CUDA_INCLUDE_COMPILER_INTERNAL_HEADERS__)
 #define __CUDA_INCLUDE_COMPILER_INTERNAL_HEADERS__
@@ -80,23 +80,23 @@ typedef unsigned __int64 size_t;
 typedef __int64 ptrdiff_t; 
 #line 196
 typedef __int64 intptr_t; 
-#line 204 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 204 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 typedef bool __vcrt_bool; 
-#line 247 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 247 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 extern "C++" {
 #line 249
 template< class _CountofType, size_t _SizeOfArray> char (*__countof_helper(__unaligned _CountofType (& _Array)[_SizeOfArray]))[_SizeOfArray]; 
 #line 253
 }
-#line 298 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 298 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 void __cdecl __security_init_cookie(); 
 #line 304
 void __cdecl __security_check_cookie(uintptr_t _StackCookie); 
 #line 305
 __declspec(noreturn) void __cdecl __report_gsfailure(uintptr_t _StackCookie); 
-#line 309 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 309 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 extern uintptr_t __security_cookie; 
-#line 317 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 317 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 }__pragma( pack ( pop )) 
 #line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.10240.0\\ucrt\\corecrt.h"
 __pragma( pack ( push, 8 )) extern "C" {
@@ -898,9 +898,9 @@ typedef dim3
 #line 432
 dim3; 
 #endif
-#line 13 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\limits.h"
+#line 13 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\limits.h"
 __pragma( pack ( push, 8 )) extern "C" {
-#line 88 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\limits.h"
+#line 88 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\limits.h"
 }__pragma( pack ( pop )) 
 #line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.10240.0\\ucrt\\stddef.h"
 __pragma( pack ( push, 8 )) extern "C" {
@@ -4213,17 +4213,17 @@ errno_t __cdecl _set_doserrno(unsigned long _Value);
 errno_t __cdecl _get_doserrno(unsigned long * _Value); 
 #line 129 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.10240.0\\ucrt\\errno.h"
 }__pragma( pack ( pop )) 
-#line 14 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_string.h"
+#line 14 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_string.h"
 __pragma( pack ( push, 8 )) extern "C" {
 #line 19
 const void *__cdecl memchr(const void * _Buf, int _Val, size_t _MaxCount); 
 #line 26
 int __cdecl memcmp(const void * _Buf1, const void * _Buf2, size_t _Size); 
-#line 40 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_string.h"
+#line 40 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_string.h"
 void *__cdecl memcpy(void * _Dst, const void * _Src, size_t _Size); 
 #line 47
 void *__cdecl memmove(void * _Dst, const void * _Src, size_t _Size); 
-#line 60 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_string.h"
+#line 60 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_string.h"
 void *__cdecl memset(void * _Dst, int _Val, size_t _Size); 
 #line 67
 const char *__cdecl strchr(const char * _Str, int _Val); 
@@ -7233,17 +7233,17 @@ int __cdecl putenv(const char * _EnvString);
 _onexit_t __cdecl onexit(_onexit_t _Func); 
 #line 1363 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.10240.0\\ucrt\\stdlib.h"
 }__pragma( pack ( pop )) 
-#line 10 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 10 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 #pragma pack ( push, 8 )
-#line 253 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 253 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 #pragma detect_mismatch("_MSC_VER", "1900")
-#line 257 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 257 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 #pragma detect_mismatch("_ITERATOR_DEBUG_LEVEL", "0")
-#line 262 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 262 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 #pragma detect_mismatch("RuntimeLibrary", "MT_StaticRelease")
-#line 57 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\use_ansi.h"
+#line 57 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\use_ansi.h"
 #pragma comment(lib, "libcpmt")
-#line 592 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 592 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 typedef __int64 _Longlong; 
 #line 593
 typedef unsigned __int64 _ULonglong; 
@@ -7259,13 +7259,13 @@ _Noinit
 #pragma warning(push)
 #pragma warning(disable:4412)
 class _Lockit { 
-#line 644 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 644 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 public: __thiscall _Lockit(); 
 #line 645
 explicit __thiscall _Lockit(int); 
 #line 646
 __thiscall ~_Lockit() noexcept; 
-#line 649 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 649 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 static void __cdecl _Lockit_ctor(int); 
 #line 650
 static void __cdecl _Lockit_dtor(int); 
@@ -7281,30 +7281,30 @@ public: _Lockit(const _Lockit &) = delete;
 _Lockit &operator=(const _Lockit &) = delete;
 #line 662
 private: int _Locktype; 
-#line 677 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 677 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 }; 
-#line 764 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 764 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 class _Init_locks { 
-#line 780 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 780 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 public: __thiscall _Init_locks(); 
 #line 781
 __thiscall ~_Init_locks() noexcept; 
-#line 785 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 785 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 private: static void __cdecl _Init_locks_ctor(_Init_locks *); 
 #line 786
 static void __cdecl _Init_locks_dtor(_Init_locks *); 
-#line 797 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 797 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 }; 
 #line 799
 #pragma warning(pop)
 }
-#line 809 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 809 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 void __cdecl _Atexit(void (__cdecl *)(void)); 
 #line 811
 typedef unsigned long _Uint32t; 
 #line 817
 #pragma pack ( pop )
-#line 17 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cmath"
+#line 17 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cmath"
 inline double abs(double _Xx) noexcept 
 #line 18
 { 
@@ -8308,7 +8308,7 @@ inline long double trunc(long double _Xx) noexcept
 return ::truncl(_Xx); 
 #line 638
 } 
-#line 17 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdlib"
+#line 17 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdlib"
 namespace std { 
 #line 18
 using ::size_t;using ::div_t;using ::ldiv_t;
@@ -8338,7 +8338,7 @@ using ::lldiv_t;
 using ::getenv;
 #line 34
 using ::system;
-#line 37 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdlib"
+#line 37 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdlib"
 using ::atoll;using ::llabs;using ::lldiv;
 #line 38
 using ::strtof;using ::strtold;
@@ -8348,7 +8348,7 @@ using ::strtoll;using ::strtoull;
 using ::_Exit;using ::at_quick_exit;using ::quick_exit;
 #line 42
 }
-#line 8 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+#line 8 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 #pragma pack ( push, 8 )
 #pragma warning(push,3)
 #line 13
@@ -8447,7 +8447,7 @@ template< class _Ty, class
 _Uty> constexpr bool 
 #line 100
 is_same_v = (is_same< _Ty, _Uty> ::value); 
-#line 104 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+#line 104 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 template< class _Ty> 
 #line 105
 struct remove_const { 
@@ -8513,7 +8513,7 @@ template<> struct _Is_integral< signed char>  : public true_type {
 template<> struct _Is_integral< __wchar_t>  : public true_type { 
 #line 173
 }; 
-#line 177 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+#line 177 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 template<> struct _Is_integral< unsigned short>  : public true_type { 
 #line 180
 }; 
@@ -8563,7 +8563,7 @@ struct is_integral : public _Is_integral< typename remove_cv< _Ty> ::type>  {
 template< class _Ty> constexpr bool 
 #line 245
 is_integral_v = (is_integral< _Ty> ::value); 
-#line 249 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+#line 249 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 template< class _Ty> 
 #line 250
 struct _Is_floating_point : public false_type { 
@@ -8591,7 +8591,7 @@ struct is_floating_point : public _Is_floating_point< typename remove_cv< _Ty> :
 template< class _Ty> constexpr bool 
 #line 282
 is_floating_point_v = (is_floating_point< _Ty> ::value); 
-#line 286 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+#line 286 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 template< class _Ty> 
 #line 287
 struct is_arithmetic : public _Cat_base< is_integral< _Ty> ::value || is_floating_point< _Ty> ::value>  { 
@@ -8601,7 +8601,7 @@ struct is_arithmetic : public _Cat_base< is_integral< _Ty> ::value || is_floatin
 template< class _Ty> constexpr bool 
 #line 295
 is_arithmetic_v = (is_arithmetic< _Ty> ::value); 
-#line 299 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+#line 299 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 template< class _Ty> 
 #line 300
 struct remove_reference { 
@@ -8648,7 +8648,7 @@ typedef _Ty type;
 #line 346
 #pragma warning(pop)
 #pragma pack ( pop )
-#line 10 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtgmath.h"
+#line 10 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtgmath.h"
 #pragma pack ( push, 8 )
 #pragma warning(push,3)
 #line 15
@@ -8866,7 +8866,7 @@ extern "C" double __cdecl trunc(double); template < class _Ty > inline typename 
 #line 215
 #pragma warning(pop)
 #pragma pack ( pop )
-#line 651 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cmath"
+#line 651 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cmath"
 namespace std { 
 #line 652
 using ::abs;using ::acos;using ::asin;

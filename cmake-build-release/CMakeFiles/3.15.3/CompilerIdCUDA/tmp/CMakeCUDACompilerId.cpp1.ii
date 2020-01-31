@@ -318,7 +318,7 @@
 
 #line 235 "c:\\program files\\nvidia gpu computing toolkit\\cuda\\v10.2\\include\\crt/host_config.h"
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
 
 
 
@@ -327,11 +327,7 @@
 
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-
-
-
-
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -347,10 +343,6 @@
 
 
 
-
-
-    
-#line 24 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -358,21 +350,29 @@
 
 
     
+#line 24 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+
+
+
+
+
+
+    
     
 
-#line 34 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 34 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
         
 
 
             
-        #line 39 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-    #line 40 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-#line 41 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+        #line 39 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+    #line 40 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+#line 41 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -522,11 +522,11 @@
 
 
 
-#line 151 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 151 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
-#line 155 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 155 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -559,26 +559,26 @@
 
 
 
-#line 188 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 188 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
-#line 190 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 190 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
 
 
-#line 196 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 196 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
-#line 200 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 200 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
 
 
 
-#line 207 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 207 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -590,7 +590,7 @@
 
 
 
-#line 219 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 219 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -599,8 +599,8 @@
 
 
 
-#line 228 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
-#line 229 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 228 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
+#line 229 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -1926,7 +1926,7 @@
 
 
 
-#line 1555 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 1555 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -1957,7 +1957,7 @@
 
 
 
-#line 1586 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 1586 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -1982,7 +1982,7 @@
 
 
 
-#line 1611 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 1611 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -1995,7 +1995,7 @@
 
 
 
-#line 1624 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 1624 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -2034,7 +2034,7 @@
 
 
 
-#line 1663 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 1663 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -2146,7 +2146,7 @@
 
 
 
-#line 1775 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 1775 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -2249,7 +2249,7 @@
 
 
 
-#line 1878 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 1878 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -2418,7 +2418,7 @@
 
 
 
-#line 2047 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2047 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -2520,7 +2520,7 @@
 
 
 
-#line 2149 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2149 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -2732,13 +2732,13 @@
 
 
 
-#line 2361 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2361 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 extern "C" {
 
 
 
 
-#line 2367 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2367 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -2966,7 +2966,7 @@ extern "C" {
 
 
 
-#line 2595 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2595 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
     
     
     
@@ -3005,7 +3005,7 @@ extern "C" {
     
     
 
-#line 2634 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2634 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -3239,7 +3239,7 @@ extern "C" {
 
 
 
-#line 2868 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2868 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -3249,40 +3249,28 @@ extern "C" {
 
 
 
-#line 2878 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2878 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
     
     
-#line 2883 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2883 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
 
 
 
-#line 2890 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
-#line 2891 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2890 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
+#line 2891 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
 
 
 
-#line 2898 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
-#line 2899 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
-
-
-
-
-
-
-
-
-
-
-
-#line 2911 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2898 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
+#line 2899 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -3290,6 +3278,11 @@ extern "C" {
 
 
 
+
+
+
+
+#line 2911 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -3316,7 +3309,14 @@ extern "C" {
 
 
 
-#line 2945 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+
+
+
+
+
+
+
+#line 2945 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
 
@@ -3340,9 +3340,9 @@ extern "C" {
 
 
 }
-#line 2969 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 2969 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\ConcurrencySal.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\ConcurrencySal.h"
 
 
 
@@ -3365,7 +3365,7 @@ extern "C" {
 
 
 extern "C" {
-#line 24 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\ConcurrencySal.h"
+#line 24 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\ConcurrencySal.h"
 
 
 
@@ -3606,11 +3606,11 @@ extern "C" {
 
 
 
-#line 265 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\ConcurrencySal.h"
+#line 265 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\ConcurrencySal.h"
 
 
 
-#line 269 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\ConcurrencySal.h"
+#line 269 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\ConcurrencySal.h"
 
 
 
@@ -3693,18 +3693,18 @@ extern "C" {
 
 
 
-#line 352 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\ConcurrencySal.h"
+#line 352 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\ConcurrencySal.h"
 
 
 }
-#line 356 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\ConcurrencySal.h"
+#line 356 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\ConcurrencySal.h"
 
-#line 358 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\ConcurrencySal.h"
-#line 2971 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\sal.h"
+#line 358 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\ConcurrencySal.h"
+#line 2971 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\sal.h"
 
 
-#line 46 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 46 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 
 
@@ -3723,11 +3723,11 @@ extern "C" {
 
 
 extern "C" {
-#line 20 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 20 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 
 
-#line 24 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 24 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 
     
@@ -3735,8 +3735,8 @@ extern "C" {
         typedef unsigned __int64  uintptr_t;
     
 
-#line 32 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
-#line 33 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 32 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
+#line 33 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 
     
@@ -3744,27 +3744,27 @@ extern "C" {
 
 
         typedef char* va_list;
-    #line 41 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
-#line 42 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+    #line 41 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
+#line 42 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 
     
 
 
-#line 48 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 48 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 
 
 
 
-#line 54 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 54 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 
 
-#line 58 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 58 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
     
     
-#line 61 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 61 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 
 
@@ -3776,7 +3776,7 @@ extern "C" {
 
 
 
-#line 73 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 73 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 
 
@@ -3784,19 +3784,7 @@ extern "C" {
 
 
 
-#line 81 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
-
-
-
-
-
-
-
-
-
-
-
-#line 93 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 81 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 
 
@@ -3808,7 +3796,19 @@ extern "C" {
 
 
 
-#line 105 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 93 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
+
+
+
+
+
+
+
+
+
+
+
+#line 105 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
     void __cdecl __va_start(va_list* , ...);
 
@@ -3819,11 +3819,11 @@ extern "C" {
 
     
 
-#line 116 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 116 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 
 } 
-#line 120 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 120 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 
     extern "C++"
@@ -3859,10 +3859,10 @@ extern "C" {
 
 
 
-#line 156 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vadefs.h"
+#line 156 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vadefs.h"
 
 #pragma pack(pop)
-#line 47 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 47 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -3895,7 +3895,7 @@ extern "C" {
 
 
 
-#line 80 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 80 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 __pragma(pack(push, 8)) extern "C" {
 
@@ -3903,7 +3903,7 @@ __pragma(pack(push, 8)) extern "C" {
 
 
     
-#line 88 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 88 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -3924,16 +3924,16 @@ __pragma(pack(push, 8)) extern "C" {
 
     
 
-#line 109 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 109 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
-#line 111 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 111 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
-#line 113 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 113 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
-#line 115 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 115 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
         
-    #line 117 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-#line 118 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+    #line 117 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+#line 118 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
     
@@ -3942,10 +3942,10 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 127 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 127 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
         
-    #line 129 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-#line 130 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+    #line 129 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+#line 130 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -3953,48 +3953,48 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 138 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 138 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
     
-#line 140 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 140 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
 
 
-#line 146 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 146 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
     
     
-#line 149 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-
-
-
-
-    
-#line 155 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-
-
-
-
+#line 149 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
 
     
+#line 155 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
-#line 167 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
 
 
-
-#line 171 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-    
-#line 173 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
 
 
 
 
     
-#line 179 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+
+
+#line 167 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+
+
+
+#line 171 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+    
+#line 173 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+
+
+
+
+    
+#line 179 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
     
@@ -4002,8 +4002,8 @@ __pragma(pack(push, 8)) extern "C" {
         
     
 
-#line 187 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-#line 188 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 187 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+#line 188 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -4017,7 +4017,7 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 202 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 202 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
     typedef bool  __vcrt_bool;
@@ -4027,20 +4027,20 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 212 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 212 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
     
-#line 217 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 217 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
     
-#line 221 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 221 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
     
-#line 225 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 225 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -4053,14 +4053,14 @@ __pragma(pack(push, 8)) extern "C" {
         
     
 
-#line 238 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-#line 239 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 238 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+#line 239 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
     
 
 
-#line 245 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 245 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
     extern "C++"
@@ -4072,30 +4072,14 @@ __pragma(pack(push, 8)) extern "C" {
     }
 
 
-#line 257 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 257 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
 
 
 
-#line 264 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-
-
-    
-        
-    
-
-
-
-
-
-#line 275 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-#line 276 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-
-
-
-#line 280 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 264 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
     
@@ -4103,8 +4087,24 @@ __pragma(pack(push, 8)) extern "C" {
     
 
 
-#line 288 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-#line 289 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+
+
+
+#line 275 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+#line 276 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+
+
+
+#line 280 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+
+
+    
+        
+    
+
+
+#line 288 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+#line 289 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -4122,8 +4122,8 @@ __pragma(pack(push, 8)) extern "C" {
 
         void __cdecl __security_check_cookie(  uintptr_t _StackCookie);
         __declspec(noreturn) void __cdecl __report_gsfailure(  uintptr_t _StackCookie);
-    #line 307 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-#line 308 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+    #line 307 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+#line 308 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 extern uintptr_t __security_cookie;
 
@@ -4131,12 +4131,12 @@ extern uintptr_t __security_cookie;
     
     
     
-#line 316 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 316 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 } __pragma(pack(pop))
 
-#line 320 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
-#line 10 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 320 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
+#line 10 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
 #line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.10240.0\\ucrt\\corecrt.h"
 
 
@@ -4147,7 +4147,7 @@ extern uintptr_t __security_cookie;
 
 #pragma once
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -6360,7 +6360,7 @@ typedef _Mbstatet mbstate_t;
 
 } __pragma(pack(pop))
 
-#line 11 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 11 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
 
 
 
@@ -6372,50 +6372,50 @@ typedef _Mbstatet mbstate_t;
 
     
 
-#line 23 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 23 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
 
-#line 25 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 25 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
         
-    #line 27 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
-#line 28 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+    #line 27 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
+#line 28 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
 
 
     
 
-#line 33 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 33 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
         
 
-#line 36 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 36 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
             
-        #line 38 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
-    #line 39 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
-#line 40 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+        #line 38 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
+    #line 39 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
+#line 40 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
 
 
     
 
-#line 45 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 45 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
         
 
-#line 48 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 48 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
             
-        #line 50 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
-    #line 51 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
-#line 52 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+        #line 50 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
+    #line 51 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
+#line 52 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
 
 
     
 
-#line 57 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 57 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
 
-#line 59 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 59 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
         
 
-#line 62 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 62 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
             
-        #line 64 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
-    #line 65 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
-#line 66 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+        #line 64 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
+    #line 65 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
+#line 66 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
 #line 237 "c:\\program files\\nvidia gpu computing toolkit\\cuda\\v10.2\\include\\crt/host_config.h"
 
 
@@ -6433,19 +6433,19 @@ typedef _Mbstatet mbstate_t;
 
 
 #line 253 "c:\\program files\\nvidia gpu computing toolkit\\cuda\\v10.2\\include\\crt/host_config.h"
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdarg"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdarg"
 
 #pragma once
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 #pragma once
 
 
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xkeycheck.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xkeycheck.h"
 
 #pragma once
 
@@ -6535,7 +6535,7 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 91 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xkeycheck.h"
+#line 91 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xkeycheck.h"
 
   
 
@@ -6620,20 +6620,20 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 252 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xkeycheck.h"
- #line 253 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xkeycheck.h"
+#line 252 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xkeycheck.h"
+ #line 253 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xkeycheck.h"
 
-#line 255 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xkeycheck.h"
+#line 255 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xkeycheck.h"
 
-#line 257 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xkeycheck.h"
-#line 258 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xkeycheck.h"
+#line 257 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xkeycheck.h"
+#line 258 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xkeycheck.h"
 
 
 
 
 
-#line 8 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 8 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
 
 
 
@@ -6642,7 +6642,7 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -6962,7 +6962,7 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 10 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\crtdefs.h"
+#line 10 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\crtdefs.h"
 
 
 
@@ -7019,7 +7019,7 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 9 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 9 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 #pragma pack(push,8)
 
@@ -7032,8 +7032,8 @@ typedef _Mbstatet mbstate_t;
 
 
    
-  #line 22 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 23 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+  #line 22 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 23 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
  
   
@@ -7041,7 +7041,7 @@ typedef _Mbstatet mbstate_t;
  
 
 
-#line 31 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 31 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
 
@@ -7060,62 +7060,62 @@ typedef _Mbstatet mbstate_t;
   
    
 
-#line 50 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 50 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
     
-   #line 52 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+   #line 52 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
   
 
 
 
 
 
-#line 59 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 60 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 59 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 60 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
  
   
 
-#line 66 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 66 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
    
-  #line 68 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 69 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+  #line 68 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 69 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
  
   
 
-#line 75 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 75 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
    
-  #line 77 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 78 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+  #line 77 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 78 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
  
   
 
-#line 84 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 84 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
    
-  #line 86 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 87 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+  #line 86 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 87 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
  
   
 
-#line 93 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 93 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
    
-  #line 95 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 96 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+  #line 95 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 96 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
  
   
 
-#line 102 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 102 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
    
-  #line 104 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 105 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+  #line 104 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 105 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
  
@@ -7147,9 +7147,9 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 137 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 137 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
-#line 139 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 139 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 		
 
@@ -7166,9 +7166,9 @@ typedef _Mbstatet mbstate_t;
 
 
 			
-		#line 156 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-	#line 157 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-#line 158 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+		#line 156 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+	#line 157 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+#line 158 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 		
 
@@ -7177,7 +7177,7 @@ typedef _Mbstatet mbstate_t;
 
  
   
- #line 167 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+ #line 167 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
 
@@ -7232,8 +7232,8 @@ typedef _Mbstatet mbstate_t;
 
 
 			
-		#line 222 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-	#line 223 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+		#line 222 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+	#line 223 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 	
 	
@@ -7243,21 +7243,21 @@ typedef _Mbstatet mbstate_t;
 
 		
 
-#line 233 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 233 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 			
-		#line 235 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-	#line 236 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+		#line 235 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+	#line 236 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 	
 	
 
-#line 241 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 241 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
-#line 243 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 243 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 		
-	#line 245 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+	#line 245 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
-#line 247 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 247 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
 
@@ -7265,11 +7265,11 @@ typedef _Mbstatet mbstate_t;
 
 	
 		#pragma detect_mismatch("_MSC_VER", "1900")
-	#line 255 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+	#line 255 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 	
 		#pragma detect_mismatch("_ITERATOR_DEBUG_LEVEL", "0")
-	#line 259 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+	#line 259 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 	
 		
@@ -7280,9 +7280,9 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 270 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-	#line 271 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-#line 272 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 270 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+	#line 271 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+#line 272 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
 
@@ -7295,52 +7295,42 @@ typedef _Mbstatet mbstate_t;
 		
 	
 
-#line 285 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-#line 286 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 285 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+#line 286 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
 
 
-#line 291 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 291 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
 
 
-#line 296 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 296 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
-#line 298 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-#line 299 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-
-
-
-
-
+#line 298 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+#line 299 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
 
 
 
 
-#line 311 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
 
-#line 313 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+
+
+
+
+#line 311 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+
+#line 313 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
  
-#line 317 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 317 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
  
  
-
- 
-
-
-
-
-
-
-
-
 
  
 
@@ -7372,44 +7362,8 @@ typedef _Mbstatet mbstate_t;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 385 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-
-
-
-
-
-#line 391 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- 
- 
-#line 394 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-
- 
  
 
- #line 399 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
 
 
 
@@ -7421,9 +7375,55 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 411 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\use_ansi.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 385 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+
+
+
+
+
+#line 391 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ 
+ 
+#line 394 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+
+ 
+ 
+
+ #line 399 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+
+
+
+
+
+
+
+
+
+
+
+#line 411 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\use_ansi.h"
 
 
 
@@ -7446,7 +7446,7 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 24 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\use_ansi.h"
+#line 24 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\use_ansi.h"
 
 
 
@@ -7463,22 +7463,22 @@ typedef _Mbstatet mbstate_t;
 
     
     
-#line 41 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\use_ansi.h"
+#line 41 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\use_ansi.h"
 
 
 
-#line 45 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\use_ansi.h"
+#line 45 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\use_ansi.h"
     
 
     
 
-#line 50 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\use_ansi.h"
-#line 51 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\use_ansi.h"
+#line 50 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\use_ansi.h"
+#line 51 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\use_ansi.h"
 
 
 
     
-#line 56 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\use_ansi.h"
+#line 56 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\use_ansi.h"
 
 #pragma comment(lib, "libcpmt" "" "")
 
@@ -7487,97 +7487,97 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 65 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\use_ansi.h"
+#line 65 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\use_ansi.h"
 
-#line 67 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\use_ansi.h"
+#line 67 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\use_ansi.h"
 
-#line 69 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\use_ansi.h"
-#line 413 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-
-
-
-#line 417 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 69 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\use_ansi.h"
+#line 413 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
 
-#line 421 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-
-
- 
+#line 417 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
 
-
-
-
-
-
-
-
-
-
-
+#line 421 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
  
-  
 
-#line 443 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-   
-  #line 445 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 446 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
 
- 
-  
 
-#line 451 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-   
-  #line 453 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 454 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
 
- 
-  
 
-#line 459 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-   
-  #line 461 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 462 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+
+
+
+
+
+
+
+
 
 
  
   
 
+#line 443 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+   
+  #line 445 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 446 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+
+ 
+  
+
+#line 451 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+   
+  #line 453 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 454 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+
+ 
+  
+
+#line 459 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+   
+  #line 461 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 462 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+
+
+ 
+  
 
 
 
 
-#line 472 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+
+#line 472 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
    
 
 
-#line 477 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 477 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
     
-   #line 479 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+   #line 479 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
-  #line 481 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 482 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+  #line 481 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 482 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
  
 
-#line 486 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 486 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
  
   
 
-#line 491 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 491 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
    
 
 
      
-   #line 496 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-  #line 497 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 498 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+   #line 496 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+  #line 497 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 498 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
  
 
@@ -7608,8 +7608,8 @@ typedef _Mbstatet mbstate_t;
 
   
    
-  #line 529 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
- #line 530 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+  #line 529 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+ #line 530 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 		
 
@@ -7636,7 +7636,7 @@ typedef _Mbstatet mbstate_t;
    
    
    
-  #line 557 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+  #line 557 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
   
   
@@ -7656,7 +7656,7 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 577 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 577 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 		
 
@@ -7723,11 +7723,11 @@ public:
 
 
 
-#line 644 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 644 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 	__thiscall _Lockit();	
 	explicit __thiscall _Lockit(int);	
 	__thiscall ~_Lockit() noexcept;	
-  #line 648 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+  #line 648 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 	static  void __cdecl _Lockit_ctor(int);
 	static  void __cdecl _Lockit_dtor(int);
@@ -7756,7 +7756,7 @@ private:
 
 
 
-#line 677 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 677 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 	};
 
  
@@ -7842,7 +7842,7 @@ private:
 
 
   
- #line 763 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+ #line 763 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 class  _Init_locks
 	{	
@@ -7859,10 +7859,10 @@ public:
 
 
 
-#line 780 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 780 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 	__thiscall _Init_locks();
 	__thiscall ~_Init_locks() noexcept;
-  #line 783 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+  #line 783 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 private:
 	static  void __cdecl _Init_locks_ctor(_Init_locks *);
@@ -7876,12 +7876,12 @@ private:
 
 
 
-#line 797 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 797 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 	};
 
 #pragma warning(pop)
 }
- #line 802 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+ #line 802 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
 
@@ -7898,15 +7898,15 @@ typedef unsigned long _Uint32t;
 
  
  #pragma pack(pop)
-#line 819 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
-#line 820 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\yvals.h"
+#line 819 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
+#line 820 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\yvals.h"
 
 
 
 
 
-#line 6 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdarg"
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\stdarg.h"
+#line 6 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdarg"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\stdarg.h"
 
 
 
@@ -7917,7 +7917,7 @@ typedef unsigned long _Uint32t;
 #pragma once
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -8237,7 +8237,7 @@ typedef unsigned long _Uint32t;
 
 
 
-#line 12 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\stdarg.h"
+#line 12 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\stdarg.h"
 
 __pragma(pack(push, 8)) extern "C" {
 
@@ -8251,14 +8251,14 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 } __pragma(pack(pop))
-#line 7 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdarg"
+#line 7 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdarg"
 
  
 namespace std {
 using ::va_list;
 }
- #line 13 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdarg"
-#line 14 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdarg"
+ #line 13 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdarg"
+#line 14 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdarg"
 
 
 
@@ -9703,7 +9703,7 @@ typedef __declspec(__device_builtin__) struct dim3 dim3;
 
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\limits.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\limits.h"
 
 
 
@@ -9714,7 +9714,7 @@ typedef __declspec(__device_builtin__) struct dim3 dim3;
 #pragma once
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -10034,7 +10034,7 @@ typedef __declspec(__device_builtin__) struct dim3 dim3;
 
 
 
-#line 12 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\limits.h"
+#line 12 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\limits.h"
 
 __pragma(pack(push, 8)) extern "C" {
 
@@ -10051,7 +10051,7 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 29 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\limits.h"
+#line 29 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\limits.h"
 
 
 
@@ -10093,21 +10093,21 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 71 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\limits.h"
-
-
-    
-        
-    
-
-#line 78 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\limits.h"
-#line 79 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\limits.h"
+#line 71 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\limits.h"
 
 
     
         
-    #line 84 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\limits.h"
-#line 85 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\limits.h"
+    
+
+#line 78 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\limits.h"
+#line 79 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\limits.h"
+
+
+    
+        
+    #line 84 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\limits.h"
+#line 85 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\limits.h"
 
 
 
@@ -72038,7 +72038,7 @@ __pragma(pack(push, 8)) extern "C" {
 
 } __pragma(pack(pop))
 #line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.10240.0\\ucrt\\corecrt_memcpy_s.h"
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_string.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_string.h"
 
 
 
@@ -72048,7 +72048,7 @@ __pragma(pack(push, 8)) extern "C" {
 
 #pragma once
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -72368,7 +72368,7 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 11 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_string.h"
+#line 11 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_string.h"
 
 
 
@@ -72393,7 +72393,7 @@ int __cdecl memcmp(
 
  
 
-#line 40 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_string.h"
+#line 40 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_string.h"
 void* __cdecl memcpy(
       void* _Dst,
             void const* _Src,
@@ -72409,7 +72409,7 @@ void* __cdecl memcpy(
 
  
 
-#line 60 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_string.h"
+#line 60 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_string.h"
 void* __cdecl memset(
       void*  _Dst,
                                int    _Val,
@@ -72458,7 +72458,7 @@ void* __cdecl memset(
 
 } __pragma(pack(pop))
 
-#line 109 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_string.h"
+#line 109 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_string.h"
 #line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.10240.0\\ucrt\\corecrt_memcpy_s.h"
 
 __pragma(pack(push, 8)) extern "C" {
@@ -74518,32 +74518,32 @@ extern         __declspec(__host__) __declspec(__device__) __declspec(__device_b
 
 #line 102 "c:\\program files\\nvidia gpu computing toolkit\\cuda\\v10.2\\include\\crt/common_functions.h"
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\new"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\new"
 
 #pragma once
 
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\exception"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\exception"
 
 #pragma once
 
 
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 
 #pragma once
 
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
 #pragma once
 
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstddef"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstddef"
 
 #pragma once
 
@@ -74557,13 +74557,13 @@ extern         __declspec(__host__) __declspec(__device__) __declspec(__device_b
 
 
  
-#line 15 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstddef"
+#line 15 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstddef"
 
  
 namespace std {
 using :: ptrdiff_t; using :: size_t;
 }
- #line 21 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstddef"
+ #line 21 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstddef"
 
  
 namespace std {
@@ -74571,15 +74571,15 @@ typedef double max_align_t;
 }
 
 using ::std:: max_align_t;	
- #line 29 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstddef"
-#line 30 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstddef"
+ #line 29 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstddef"
+#line 30 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstddef"
 
 
 
 
 
-#line 7 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdlib"
+#line 7 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdlib"
 
 #pragma once
 
@@ -76697,8 +76697,8 @@ extern "C++" { template <size_t _DriveSize, size_t _DirSize, size_t _NameSize, s
 
 } __pragma(pack(pop))
 
-#line 14 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdlib"
-#line 15 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdlib"
+#line 14 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdlib"
+#line 15 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdlib"
 
  
 namespace std {
@@ -76719,7 +76719,7 @@ using :: lldiv_t;
  
 using :: getenv;
 using :: system;
- #line 36 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdlib"
+ #line 36 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdlib"
 
 using :: atoll; using :: llabs; using :: lldiv;
 using :: strtof; using :: strtold;
@@ -76727,17 +76727,17 @@ using :: strtoll; using :: strtoull;
 
 using :: _Exit; using :: at_quick_exit; using :: quick_exit;
 }
- #line 44 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdlib"
+ #line 44 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdlib"
 
-#line 46 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cstdlib"
-
-
+#line 46 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cstdlib"
 
 
 
-#line 8 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\initializer_list"
+
+#line 8 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
+
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\initializer_list"
 
 #pragma once
 
@@ -76812,16 +76812,16 @@ template<class _Elem> inline
  
  #pragma warning(pop)
  #pragma pack(pop)
-#line 76 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\initializer_list"
-#line 77 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\initializer_list"
+#line 76 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\initializer_list"
+#line 77 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\initializer_list"
 
 
 
 
 
-#line 10 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+#line 10 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 
 #pragma once
 
@@ -76922,7 +76922,7 @@ template<class _Ty1>
 template<class _Ty,
 	class _Uty>
 	constexpr bool is_same_v = is_same<_Ty, _Uty>::value;
- #line 102 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+ #line 102 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 
 	
 template<class _Ty>
@@ -76995,7 +76995,7 @@ template<>
 		: true_type
 	{	
 	};
- #line 175 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+ #line 175 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 
 template<>
 	struct _Is_integral<unsigned short>
@@ -77067,7 +77067,7 @@ template<class _Ty>
  
 template<class _Ty>
 	constexpr bool is_integral_v = is_integral<_Ty>::value;
- #line 247 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+ #line 247 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 
 	
 template<class _Ty>
@@ -77104,7 +77104,7 @@ template<class _Ty>
  
 template<class _Ty>
 	constexpr bool is_floating_point_v = is_floating_point<_Ty>::value;
- #line 284 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+ #line 284 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 
 	
 template<class _Ty>
@@ -77117,7 +77117,7 @@ template<class _Ty>
  
 template<class _Ty>
 	constexpr bool is_arithmetic_v = is_arithmetic<_Ty>::value;
- #line 297 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+ #line 297 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 
 	
 template<class _Ty>
@@ -77169,14 +77169,14 @@ template<class _Ty>
  
  #pragma warning(pop)
  #pragma pack(pop)
-#line 349 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
-#line 350 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtr1common"
+#line 349 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
+#line 350 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtr1common"
 
 
 
 
 
-#line 12 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+#line 12 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
  #pragma pack(push,8)
  #pragma warning(push,3)
@@ -77187,13 +77187,13 @@ template<class _Ty>
   
   
   
- #line 23 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+ #line 23 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
 namespace std {
 		
  
  
- #line 29 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+ #line 29 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
  
  
@@ -77218,10 +77218,10 @@ namespace std {
 
 
 
-#line 55 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+#line 55 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
    
    
-  #line 58 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+  #line 58 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
  
 
@@ -77243,7 +77243,7 @@ namespace std {
 
 
 
-#line 80 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+#line 80 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
 		
 
@@ -77335,7 +77335,7 @@ template<class _Arg1,
 	typedef _Arg2 second_argument_type;
 	typedef _Result result_type;
 	};
- #line 172 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+ #line 172 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
 		
 template<class _Ty = void>
@@ -77510,7 +77510,7 @@ inline size_t _Hash_seq(const unsigned char *_First, size_t _Count)
 
 
 
-#line 347 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+#line 347 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
 	size_t _Val = _FNV_offset_basis;
 	for (size_t _Next = 0; _Next < _Count; ++_Next)
@@ -77585,7 +77585,7 @@ template<>
 		: public _Bitwise_hash<wchar_t>
 	{	
 	};
- #line 422 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+ #line 422 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
 template<>
 	struct hash<short>
@@ -77683,7 +77683,7 @@ template<class _Ty>
 	{	
 	};
 }
-#line 520 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+#line 520 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
 
 namespace std {
@@ -77691,7 +77691,7 @@ namespace tr1 {
 using ::std:: hash;
 }	
 }
-#line 528 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+#line 528 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
 
 
@@ -77702,34 +77702,34 @@ using ::std:: hash;
 
 
 
- #line 539 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+ #line 539 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
  
 
 
 
-#line 545 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+#line 545 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
- #line 547 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
-
- 
-
-
-
-
-
-
-
-
- #line 558 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+ #line 547 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
  
 
 
 
+
+
+
+
+
+ #line 558 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
+
  
 
-#line 567 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+
+
+ 
+
+#line 567 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
 
 
@@ -77861,7 +77861,7 @@ template<class _Ty>
  
 template<class _Ty>
 	constexpr bool is_function_v = is_function<_Ty>::value;
- #line 699 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+ #line 699 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
 		
 
@@ -77890,7 +77890,7 @@ template<class _Ty> inline
 	{	
 	return (__builtin_addressof(_Val));
 	}
-#line 728 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+#line 728 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
 
 		
@@ -77910,14 +77910,14 @@ template<class _Ty> inline
  
  #pragma warning(pop)
  #pragma pack(pop)
-#line 748 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
-#line 749 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xstddef"
+#line 748 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
+#line 749 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xstddef"
 
 
 
 
 
-#line 7 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 7 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 
  #pragma pack(push,8)
  #pragma warning(push,3)
@@ -79066,7 +79066,7 @@ using ::std:: remove_reference;
 using ::std:: remove_volatile;
 using ::std:: true_type;
 	}	
-#line 1156 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 1156 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 
 		
 template<class... _Ty>
@@ -79157,7 +79157,7 @@ template<class _Ty,
 template<class _Ty,
 	_Ty _Size>
 	using make_integer_sequence = __make_integer_seq<integer_sequence, _Ty, _Size>;
- #line 1247 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+ #line 1247 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 
 template<size_t... _Vals>
 	using index_sequence = integer_sequence<size_t, _Vals...>;
@@ -79180,7 +79180,7 @@ template<class _Ty>
 		return (_Left);
 		}
 	};
-#line 1270 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 1270 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 
 	
 template<class _Ty> inline
@@ -79590,7 +79590,7 @@ using ::std:: ref;
 using ::std:: reference_wrapper;
 using ::std:: result_of;
 	}	
-#line 1680 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 1680 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 
 		
 template<class _Ty>
@@ -79605,13 +79605,13 @@ template<class _Ty>
 
 
 
-#line 1695 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 1695 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 template<class _Ty,
 	class = void> inline
-#line 1698 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 1698 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 	void swap(_Ty&, _Ty&)
 		noexcept(is_nothrow_move_constructible<_Ty>::value && is_nothrow_move_assignable<_Ty>::value);
-#line 1701 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 1701 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 
 template<class _Ty,
 	size_t _Size,
@@ -79671,7 +79671,7 @@ template<class _Ty1,
 		&& noexcept(swap(::std:: declval<_Ty2>(), ::std:: declval<_Ty1>()));
 
 
-#line 1761 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 1761 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 	using type = bool_constant<value>;
 	};
 
@@ -79727,7 +79727,7 @@ template<class _Ty>
 
 
 
-#line 1817 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 1817 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 
 		
 template<class _Ty>
@@ -79888,7 +79888,7 @@ template<class _Ty>
 
 
 
-#line 1978 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 1978 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 template<class _Ty>
 	constexpr bool is_destructible_v = is_destructible<_Ty>::value;
 template<class _Ty,
@@ -79931,7 +79931,7 @@ template<class _Ty>
 
 
 
-#line 2021 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 2021 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 template<class _Ty>
 	constexpr bool is_nothrow_destructible_v = is_nothrow_destructible<_Ty>::value;
 template<class _Ty>
@@ -79955,22 +79955,22 @@ template<class... _Traits>
 	constexpr bool disjunction_v = disjunction<_Traits...>::value;
 template<class _Trait>
 	constexpr bool negation_v = negation<_Trait>::value;
- #line 2045 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+ #line 2045 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 
 }
 
  
  #pragma warning(pop)
  #pragma pack(pop)
-#line 2052 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
-#line 2053 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\type_traits"
+#line 2052 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
+#line 2053 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\type_traits"
 
 
 
 
 
 
-#line 8 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\exception"
+#line 8 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\exception"
 
  #pragma pack(push,8)
  #pragma warning(push,3)
@@ -79994,7 +79994,7 @@ namespace std {
   
 
 
-  #line 32 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\exception"
+  #line 32 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\exception"
 
  bool __cdecl uncaught_exception() noexcept;
  int __cdecl uncaught_exceptions() noexcept;
@@ -80181,8 +80181,8 @@ void* __cdecl _alloca(  size_t _Size);
 
 
 } __pragma(pack(pop))
-#line 41 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\exception"
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_exception.h"
+#line 41 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\exception"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_exception.h"
 
 
 
@@ -80192,7 +80192,7 @@ void* __cdecl _alloca(  size_t _Size);
 
 #pragma once
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\eh.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\eh.h"
 
 
 
@@ -80249,7 +80249,7 @@ typedef void (__cdecl* terminate_function)();
 } __pragma(pack(pop))
 
 #line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.10240.0\\ucrt\\corecrt_terminate.h"
-#line 12 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\eh.h"
+#line 12 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\eh.h"
 
 
 
@@ -80285,7 +80285,7 @@ struct _EXCEPTION_POINTERS;
               _se_translator_function _NewSETranslator
             );
 
-    #line 48 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\eh.h"
+    #line 48 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\eh.h"
 
     class type_info;
 
@@ -80297,12 +80297,12 @@ struct _EXCEPTION_POINTERS;
      bool __cdecl __uncaught_exception();
      int  __cdecl __uncaught_exceptions();
 
-#line 60 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\eh.h"
+#line 60 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\eh.h"
 
 } __pragma(pack(pop))
 
-#line 64 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\eh.h"
-#line 11 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_exception.h"
+#line 64 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\eh.h"
+#line 11 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_exception.h"
 
 
 
@@ -80433,14 +80433,14 @@ public:
 
 } 
 
-#line 142 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_exception.h"
+#line 142 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_exception.h"
 #pragma pack(pop)
 
 
 
 
 
-#line 42 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\exception"
+#line 42 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\exception"
 
 namespace std {
 
@@ -80458,7 +80458,7 @@ inline unexpected_handler __cdecl get_unexpected() noexcept
 	{	
 	return (_get_unexpected());
 	}
-#line 60 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\exception"
+#line 60 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\exception"
 
 }
 
@@ -80627,7 +80627,7 @@ inline unexpected_handler __cdecl get_unexpected() noexcept
 
 
 
-#line 229 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\exception"
+#line 229 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\exception"
 
 
 
@@ -80637,7 +80637,7 @@ inline unexpected_handler __cdecl get_unexpected() noexcept
 
 
 
-#line 239 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\exception"
+#line 239 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\exception"
 
  void __cdecl __ExceptionPtrCreate(  void*);
  void __cdecl __ExceptionPtrDestroy(  void*);
@@ -80878,15 +80878,15 @@ template<class _Ty> inline
  #pragma warning(pop)
  #pragma pack(pop)
 
-#line 480 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\exception"
-#line 481 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\exception"
+#line 480 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\exception"
+#line 481 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\exception"
 
 
 
 
 
-#line 7 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\new"
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_new.h"
+#line 7 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\new"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_new.h"
 
 
 
@@ -80896,7 +80896,7 @@ template<class _Ty> inline
 
 #pragma once
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime.h"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime.h"
 
 
 
@@ -81216,7 +81216,7 @@ template<class _Ty> inline
 
 
 
-#line 11 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_new.h"
+#line 11 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_new.h"
 
 
 extern "C++" {
@@ -81237,7 +81237,7 @@ extern "C++" {
 
         extern nothrow_t const nothrow;
     }
-#line 32 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_new.h"
+#line 32 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_new.h"
 
    
 __declspec(allocator) void* __cdecl operator new(
@@ -81302,7 +81302,7 @@ void __cdecl operator delete[](
     {
         return;
     }
-#line 97 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_new.h"
+#line 97 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_new.h"
 
 
     
@@ -81316,7 +81316,7 @@ void __cdecl operator delete[](
     inline void __cdecl operator delete[](void*, void*) throw()
     {
     }
-#line 111 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_new.h"
+#line 111 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_new.h"
 
 
 
@@ -81324,8 +81324,8 @@ void __cdecl operator delete[](
 #pragma pack(pop)
 
 } 
-#line 119 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\vcruntime_new.h"
-#line 8 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\new"
+#line 119 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\vcruntime_new.h"
+#line 8 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\new"
 
  #pragma pack(push,8)
  #pragma warning(push,3)
@@ -81341,7 +81341,7 @@ namespace std {
  
 
 typedef void (__cdecl * new_handler) ();
- #line 24 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\new"
+ #line 24 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\new"
 
 		
  new_handler __cdecl set_new_handler(  new_handler)
@@ -81355,8 +81355,8 @@ typedef void (__cdecl * new_handler) ();
  #pragma warning(pop)
  #pragma pack(pop)
 
-#line 38 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\new"
-#line 39 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\new"
+#line 38 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\new"
+#line 39 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\new"
 
 
 
@@ -99591,7 +99591,7 @@ int __cdecl _matherr(  struct _exception* _Except);
 
 
 
-#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cmath"
+#line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cmath"
 
 #pragma once
 
@@ -100614,8 +100614,8 @@ int __cdecl _matherr(  struct _exception* _Except);
 
 #line 1010 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.10240.0\\ucrt\\math.h"
 
-#line 13 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cmath"
-#line 14 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cmath"
+#line 13 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cmath"
+#line 14 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cmath"
 
  
 
@@ -101242,14 +101242,14 @@ int __cdecl _matherr(  struct _exception* _Except);
 	return (:: truncl(_Xx));
 	}
 
- #line 641 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cmath"
+ #line 641 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cmath"
 
 
 
 
 
 
- #line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtgmath.h"
+ #line 1 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtgmath.h"
 
 
  
@@ -101466,16 +101466,16 @@ extern "C"    double __cdecl trunc(  double); template<class _Ty> inline typenam
  
  #pragma warning(pop)
  #pragma pack(pop)
-#line 218 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtgmath.h"
-#line 219 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtgmath.h"
- #line 220 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\xtgmath.h"
+#line 218 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtgmath.h"
+#line 219 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtgmath.h"
+ #line 220 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\xtgmath.h"
 
 
 
 
 
-#line 648 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cmath"
-#line 649 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cmath"
+#line 648 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cmath"
+#line 649 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cmath"
 
  
 namespace std {
@@ -101557,9 +101557,9 @@ using :: isgreater; using :: isgreaterequal;
 using :: isless; using :: islessequal;
 using :: islessgreater; using :: isunordered;
 }
- #line 731 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cmath"
+ #line 731 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cmath"
 
-#line 733 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/amd64/../../../VC/INCLUDE\\cmath"
+#line 733 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/../../VC/INCLUDE\\cmath"
 
 
 

@@ -1,4 +1,73 @@
-"E:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - NMake Makefiles" C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/cmake-build-release
+"E:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda
+-- The CXX compiler identification is GNU 8.1.0
+-- The CUDA compiler identification is NVIDIA 10.2.89
+-- Check for working CXX compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe
+-- Check for working CXX compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Check for working CUDA compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/nvcc.exe
+-- Check for working CUDA compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/nvcc.exe -- broken
+CMake Error at E:/Program Files/JetBrains/CLion 2019.2.5/bin/cmake/win/share/cmake-3.15/Modules/CMakeTestCUDACompiler.cmake:46 (message):
+  The CUDA compiler
+
+    "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/nvcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/cmake-build-release/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe cmTC_e70c0/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_e70c0.dir\build.make CMakeFiles/cmTC_e70c0.dir/build
+    mingw32-make.exe[1]: Entering directory 'C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/cmake-build-release/CMakeFiles/CMakeTmp'
+    Building CUDA object CMakeFiles/cmTC_e70c0.dir/main.cu.obj
+    C:\PROGRA~1\NVIDIA~2\CUDA\v10.2\bin\nvcc.exe    -D_WINDOWS -Xcompiler=" /GR /EHsc"  -Xcompiler="-Zi -Ob0 -Od /RTC1" -Xcompiler=-MDd   -x cu -c C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\cmake-build-release\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_e70c0.dir\main.cu.obj -Xcompiler=-FdCMakeFiles\cmTC_e70c0.dir/,-FS
+    main.cu
+    Linking CUDA executable cmTC_e70c0.exe
+    "E:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_e70c0.dir\link.txt --verbose=1
+    "E:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e70c0.dir --rc=C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\windres.exe --mt="" --manifests  -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo CMakeFiles/cmTC_e70c0.dir/main.cu.obj  /out:cmTC_e70c0.exe /implib:cmTC_e70c0.lib /pdb:C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\cmake-build-release\CMakeFiles\CMakeTmp\cmTC_e70c0.pdb /version:0.0   /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib  -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/lib/x64" "cudadevrt.lib" "cudart_static.lib" 
+    RC Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\windres.exe /fo CMakeFiles\cmTC_e70c0.dir/manifest.res CMakeFiles\cmTC_e70c0.dir/manifest.rc" failed (exit code 1) with the following output:
+    Usage: C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\windres.exe [option(s)] [input-file] [output-file]
+     The options are:
+      -i --input=<file>            Name input file
+      -o --output=<file>           Name output file
+      -J --input-format=<format>   Specify input format
+      -O --output-format=<format>  Specify output format
+      -F --target=<target>         Specify COFF target
+         --preprocessor=<program>  Program to use to preprocess rc file
+         --preprocessor-arg=<arg>  Additional preprocessor argument
+      -I --include-dir=<dir>       Include directory when preprocessing rc file
+      -D --define <sym>[=<val>]    Define SYM when preprocessing rc file
+      -U --undefine <sym>          Undefine SYM when preprocessing rc file
+      -v --verbose                 Verbose - tells you what it's doing
+      -c --codepage=<codepage>     Specify default codepage
+      -l --language=<val>          Set language when reading rc file
+         --use-temp-file           Use a temporary file instead of popen to read
+                                   the preprocessor output
+         --no-use-temp-file        Use popen (default)
+      -r                           Ignored for compatibility with rc
+      @<file>                      Read options from <file>
+      -h --help                    Print this help message
+      -V --version                 Print version information
+    FORMAT is one of rc, res, or coff, and is deduced from the file name
+    extension if not specified.  A single file name is an input file.
+    No input-file is stdin, default rc.  No output-file is stdout, default rc.
+    C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\windres.exe: supported targets: pe-x86-64 pei-x86-64 pe-bigobj-x86-64 elf64-x86-64 elf64-l1om elf64-k1om pe-i386 pei-i386 elf32-i386 elf32-iamcu elf64-little elf64-big elf32-little elf32-big plugin srec symbolsrec verilog tekhex binary ihex
+    mingw32-make.exe[1]: *** [CMakeFiles\cmTC_e70c0.dir\build.make:86: cmTC_e70c0.exe] Error -1
+    mingw32-make.exe[1]: Leaving directory 'C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/cmake-build-release/CMakeFiles/CMakeTmp'
+    mingw32-make.exe: *** [Makefile:120: cmTC_e70c0/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/cmake-build-release/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/cmake-build-release/CMakeFiles/CMakeError.log".

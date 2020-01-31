@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="kernel_img_proc_cuda" targetName="kernel_img_proc_cuda" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -20,7 +18,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -35,13 +32,6 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
-  </component>
-  <component name="RunManager">
-    <configuration name="kernel_img_proc_cuda" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kernel_img_proc_cuda" TARGET_NAME="kernel_img_proc_cuda" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="kernel_img_proc_cuda" RUN_TARGET_NAME="kernel_img_proc_cuda">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -68,6 +58,9 @@
       <workItem from="1579958779144" duration="6067000" />
       <workItem from="1580041100189" duration="15697000" />
       <workItem from="1580128759374" duration="9966000" />
+      <workItem from="1580240330109" duration="610000" />
+      <workItem from="1580284275806" duration="5093000" />
+      <workItem from="1580396152436" duration="19000" />
     </task>
     <servers />
   </component>
