@@ -1,15 +1,15 @@
 Determining if the CUDA compiler works failed with the following output:
-Change Dir: C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/cmake-build-release/CMakeFiles/CMakeTmp
+Change Dir: E:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/cmake-build-release/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe cmTC_e70c0/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_e70c0.dir\build.make CMakeFiles/cmTC_e70c0.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/cmake-build-release/CMakeFiles/CMakeTmp'
-Building CUDA object CMakeFiles/cmTC_e70c0.dir/main.cu.obj
-C:\PROGRA~1\NVIDIA~2\CUDA\v10.2\bin\nvcc.exe    -D_WINDOWS -Xcompiler=" /GR /EHsc"  -Xcompiler="-Zi -Ob0 -Od /RTC1" -Xcompiler=-MDd   -x cu -c C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\cmake-build-release\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_e70c0.dir\main.cu.obj -Xcompiler=-FdCMakeFiles\cmTC_e70c0.dir/,-FS
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe cmTC_fd0d8/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_fd0d8.dir\build.make CMakeFiles/cmTC_fd0d8.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/cmake-build-release/CMakeFiles/CMakeTmp'
+Building CUDA object CMakeFiles/cmTC_fd0d8.dir/main.cu.obj
+C:\PROGRA~1\NVIDIA~2\CUDA\v10.2\bin\nvcc.exe    -D_WINDOWS -Xcompiler=" /GR /EHsc"  -Xcompiler="-Zi -Ob0 -Od /RTC1" -Xcompiler=-MDd   -x cu -c E:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\cmake-build-release\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_fd0d8.dir\main.cu.obj -Xcompiler=-FdCMakeFiles\cmTC_fd0d8.dir/,-FS
 main.cu
-Linking CUDA executable cmTC_e70c0.exe
-"E:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_e70c0.dir\link.txt --verbose=1
-"E:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e70c0.dir --rc=C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\windres.exe --mt="" --manifests  -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo CMakeFiles/cmTC_e70c0.dir/main.cu.obj  /out:cmTC_e70c0.exe /implib:cmTC_e70c0.lib /pdb:C:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\cmake-build-release\CMakeFiles\CMakeTmp\cmTC_e70c0.pdb /version:0.0   /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib  -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/lib/x64" "cudadevrt.lib" "cudart_static.lib" 
-RC Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\windres.exe /fo CMakeFiles\cmTC_e70c0.dir/manifest.res CMakeFiles\cmTC_e70c0.dir/manifest.rc" failed (exit code 1) with the following output:
+Linking CUDA executable cmTC_fd0d8.exe
+"E:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_fd0d8.dir\link.txt --verbose=1
+"E:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fd0d8.dir --rc=C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\windres.exe --mt="" --manifests  -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo CMakeFiles/cmTC_fd0d8.dir/main.cu.obj  /out:cmTC_fd0d8.exe /implib:cmTC_fd0d8.lib /pdb:E:\Users\Matteo\Dropbox\University\11\PC\kernel_img_proc_cuda\cmake-build-release\CMakeFiles\CMakeTmp\cmTC_fd0d8.pdb /version:0.0   /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib  -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/lib/x64" "cudadevrt.lib" "cudart_static.lib" 
+RC Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\windres.exe /fo CMakeFiles\cmTC_fd0d8.dir/manifest.res CMakeFiles\cmTC_fd0d8.dir/manifest.rc" failed (exit code 1) with the following output:
 Usage: C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\windres.exe [option(s)] [input-file] [output-file]
  The options are:
   -i --input=<file>            Name input file
@@ -36,9 +36,9 @@ FORMAT is one of rc, res, or coff, and is deduced from the file name
 extension if not specified.  A single file name is an input file.
 No input-file is stdin, default rc.  No output-file is stdout, default rc.
 C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\windres.exe: supported targets: pe-x86-64 pei-x86-64 pe-bigobj-x86-64 elf64-x86-64 elf64-l1om elf64-k1om pe-i386 pei-i386 elf32-i386 elf32-iamcu elf64-little elf64-big elf32-little elf32-big plugin srec symbolsrec verilog tekhex binary ihex
-mingw32-make.exe[1]: *** [CMakeFiles\cmTC_e70c0.dir\build.make:86: cmTC_e70c0.exe] Error -1
-mingw32-make.exe[1]: Leaving directory 'C:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/cmake-build-release/CMakeFiles/CMakeTmp'
-mingw32-make.exe: *** [Makefile:120: cmTC_e70c0/fast] Error 2
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_fd0d8.dir\build.make:86: cmTC_fd0d8.exe] Error -1
+mingw32-make.exe[1]: Leaving directory 'E:/Users/Matteo/Dropbox/University/11/PC/kernel_img_proc_cuda/cmake-build-release/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_fd0d8/fast] Error 2
 
 
 
